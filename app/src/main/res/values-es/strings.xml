@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyecto Final Integrador</string>
+    <string name="text1_hint">Ingresar texto 1</string>
+    <string name="text2_hint">Ingresar texto 2</string>
+    <string name="compare_texts">Comparar textos</string>
+</resources>
